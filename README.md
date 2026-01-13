@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I'm Zarah Mathew 
+🎓 Engineering Science Student (Robotics) @ University of Toronto – 2T7 + PEY Co-op
+🔧 Robotics • Hardware–Software Integration • Electronics • AI/ML
+📍 Toronto, Canada
 
+I am engineering student passionate about building systems that live at the intersection of hardware, software, and real-world impact. 
 <!--
 **ZarahMathew/ZarahMathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
