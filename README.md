@@ -3,7 +3,7 @@
 - 🔧 Robotics • Hardware–Software Integration • Electronics • AI/ML
 - 📍 Toronto, Canada
 
-I am engineering student passionate about building systems that live at the intersection of hardware, software, and real-world impact! I am constantly driven by the desire to explore
+I am an Robotics major passionate about building systems that live at the intersection of hardware, software, and real-world impact. I am constantly driven by the desire to explore
 and create. As I come across challenges, I demonstrate perseverance and an endearing commitment to improvement. With my experience in engineering projects and a keen eye in design, I believe I bring a unique blend of analytical thinking and innovative ideas to the table 🌱
 <!--
 **ZarahMathew/ZarahMathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
